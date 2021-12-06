@@ -1,0 +1,8 @@
+# rails new proje adı
+# migrate işlemi yapılır ,örneğin siparisler için içerik acıklama baslık
+# rails db:migrate
+#rails g controller Order index show new edit
+#routes.rb de controller#method seklinde yazılır, controller controller altında application cont.dan türer, methodlar ise
+#views altında html.erb file ları bulunur
+#resources :layout altındaki dosya adı bize otomatik get post istekleri verir
+#RUBYOPT='-W:no-deprecated -W:no-experimental' rails server
