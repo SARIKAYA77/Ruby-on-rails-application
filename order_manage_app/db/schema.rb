@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 2019_12_09_133339) do
 
   create_table "orders", force: :cascade do |t|
     t.string "title"
+    t.string "money"
     t.text "content"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

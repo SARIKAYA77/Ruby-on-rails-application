@@ -5,7 +5,7 @@
 
 
 <p><%= @order.content %></p>
-
+<p><%= @order.money %></p>
 
 <%= link_to "Edit", edit_order_path(@order.id), class: 'btn btn-primary' %>
 <%= link_to "Delete", order_path(@order.id), method: :delete, class: 'btn btn-danger' %>
