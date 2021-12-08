@@ -1,8 +1,5 @@
 # Ruby-on-rails-application
 ruby on rails order management app
-# Project
-
-[project.com](https://project.com)
 
 ## Install
 
